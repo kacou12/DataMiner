@@ -1,4 +1,5 @@
 Riz-gras
+salade
 Steak tartare
 Salade norvégienne
 Filet de dorade
@@ -9,6 +10,7 @@ SPAGHETTI
 
 VIANDE
 thon
+huile
 
 banane
 glace marron
