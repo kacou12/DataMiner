@@ -8,6 +8,7 @@ plat beurk
 SPAGHETTI
 
 VIANDE
+thon
 
 banane
 glace marron
