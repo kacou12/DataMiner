@@ -1,3 +1,4 @@
+Riz-gras
 Steak tartare
 Salade norvégienne
 Filet de dorade
@@ -10,3 +11,5 @@ VIANDE
 
 banane
 glace marron
+
+petit marron
