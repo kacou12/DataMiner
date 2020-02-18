@@ -1,0 +1,13 @@
+diff --git a/Menu.txt b/Menu.txt
+new file mode 100644
+index 0000000..c152bdf
+--- /dev/null
++++ b/Menu.txt
+@@ -0,0 +1,6 @@
++Steak tartare
++Salade norvégienne
++Filet de dorade
++Bar à la citronnelle
++
++plat beurk
+\ No newline at end of file
